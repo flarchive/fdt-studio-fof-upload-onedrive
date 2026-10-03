@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of fdt-studio/fof-upload-onedrive.** Not for installation: use [Packagist](https://packagist.org/packages/fdt-studio/fof-upload-onedrive) or the [upstream repository](https://github.com/FDT-Studio/fof-upload-onedrive).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/fdt-studio-fof-upload-onedrive/tree/archive/v1.0.1) · License: `MIT`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/fdt-studio-fof-upload-onedrive/tree/archive/v1.0.1) · License: `MIT`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-07-18 | — | [Browse](https://github.com/flarchive/fdt-studio-fof-upload-onedrive/tree/archive/v1.0.0) |
+| `1.0.1` | 2024-07-21 | — | [Browse](https://github.com/flarchive/fdt-studio-fof-upload-onedrive/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/fdt-studio-fof-upload-onedrive.json](https://github.com/flarchive/archive-index/blob/main/packages/fdt-studio-fof-upload-onedrive.json)
 
